@@ -50,3 +50,4 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 <img src= "Creativities/lava_ss2.png" width = 400> 
 
 [//]: # (Dummy comment to order repositories.)
+[//]: # (Dummy comment to order repositories.)
