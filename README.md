@@ -48,3 +48,5 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 
 ### Przykład mapy zimowej.
 <img src= "Creativities/lava_ss2.png" width = 400> 
+
+[//]: # (Dummy comment to order repositories.)
